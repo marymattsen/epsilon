@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>They Might Be Giants Podcast Archive</title>
+		<itunes:author>They Might Be Giants</itunes:author>
+		<link>http://www.tmbg.com</link>
+		<generator>Podcast Maker v1.1.5 - http://www.potionfactory.com/podcastmaker</generator>
+		<description>
+		This might be the official podcast of They Might Be Giants, the same band that you may know better as They Might Be Giants. Famous for measuring the distance between the Earth and the Moon and the discovery of Hydrogen
+		</description>
+		<itunes:subtitle>The official podcast of They Might Be Giants.</itunes:subtitle>
+		<itunes:summary>
+		This might be the official podcast of They Might Be Giants, the same band that you may know better as They Might Be Giants. Famous for measuring the distance between the Earth and the Moon and the discovery of Hydrogen
+		</itunes:summary>
+		<language>en</language>
+		<copyright>2008</copyright>
+		<itunes:owner>
+			<itunes:name>They Might Be Giants</itunes:name>
+			<itunes:email />
+		</itunes:owner>
+		<image>
+			<url>http://www.tmbg.com/_media/_pod/TMBGPODCAST_144.jpg</url>
+			<title>They Might Be Giants Podcast</title>
+			<link>http://www.tmbg.com</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://www.tmbg.com/_media/_pod/TMBGPODCAST.jpg" />
+		<category>Music</category>
+		<itunes:category text="Music" />
+		<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+<item>
+			<title>Podcast 1A</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>
+			This first episode features the music of Brooklyn rock legends They Might Be Giants. Highlights include exclusive recordings, live recordings and new tracks off their Venue Songs DVD/CD set. Hosted by public radio's Duke of Dead Air-Cecil Portesque-broadcasting from a secret, very rainy location.
+			</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="http://www.tmbg.com/_media/_pod/TMBGpodcast1.mp3" />
+			<guid>http://www.tmbg.com/_media/_pod/TMBGpodcast1.mp3</guid>
+			<pubDate>Thu, 8 December 2005 00:00:01 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:19:10</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+</item>
+<item>
+			<title>Podcast 2A</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>
+			Includes exclusive They Might Be Giants live recordings, rarities and preview tracks. Including, "Why Did You Grow a Beard", "Fingertips LIve", "Untitled Track" from Tire Damage, "Taste the Fame", "The World that Swings", "The Deranged Millionaire", "Raliegh", and "Robot Parade".
+			</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="http://www.tmbg.com/_media/_pod/TMBGPodcast2A.mp3" />
+			<guid>http://www.tmbg.com/_media/_pod/TMBGPodcast2A.mp3</guid>
+			<pubDate>Tue, 17 January 2006 00:00:01 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:22:27</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+</item>
+<item>
+			<title>Podcast 3A</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>
+			Includes exclusive They Might Be Giants live recordings, rarities and preview tracks. Including " Miniature Sidewalk Whirlwind," "Valentine," "The Long Grift," "Love Is Eternity," and much more! Plus The Last Car performing "So Easy to Love," "Running Strong," and "Tell Us Mr. T".
+			</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="http://www.tmbg.com/_media/_pod/TMBGpodcast3A.mp3" />
+			<guid>http://www.tmbg.com/_media/_pod/TMBGpodcast3A.mp3</guid>
+			<pubDate>Fri, 10 February 2006 00:00:01 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:23:53</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+</item>
+<item>
+			<title>Podcast 4A</title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>
+			Includes exclusive They Might Be Giants live recordings, rarities and preview tracks. Including "Venue Songs" New Year's Live and much more! Plus TMBG ringtones previewed and songs from Cartoon Network's "Dexter's Laboratory" and "Courage the Cowardly Dog".
+			</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="http://www.tmbg.com/_media/_pod/TMBGPodcast4A.mp3" />
+			<guid>http://www.tmbg.com/_media/_pod/TMBGPodcast4A.mp3</guid>
+			<pubDate>Fri, 03 March 2006 00:00:01 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>30:48</itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+</item>
+<!--
+<item>
+			<title></title>
+			<itunes:author>They Might Be Giants</itunes:author>
+			<description>
+			
+			</description>
+			<itunes:subtitle>This is a podcast for people who understand They Might Be Giants.</itunes:subtitle>
+			<itunes:summary>This is a podcast for people who understand They Might Be Giants.</itunes:summary>
+			<enclosure type="audio/mpeg" url="" />
+			<guid></guid>
+			<pubDate>Fri, 12 September 2014 14:00:00 EDT</pubDate>
+			<category>Music</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration></itunes:duration>
+			<itunes:keywords>They Might Be Giants, TMBG, John Flansburgh, John Linnell, Birdhouse in Your Soul, Istanbul, Homestar, </itunes:keywords>
+</item>
+-->
+</channel>
+</rss>
