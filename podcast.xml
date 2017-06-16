@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="" version="2.0">
 	<channel>
 		<title>They Might Be Giants Podcast Archive</title>
 		<itunes:author>They Might Be Giants</itunes:author>
